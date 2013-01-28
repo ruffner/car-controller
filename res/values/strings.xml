@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">Car Controller</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Car Controller</string>
+    <string name="x">X:</string>
+    <string name="y">Y:</string>
+    <string name="nullz">Nullzies</string>
+    <string name="forward">Forward</string>
+    <string name="reverse">Reverse</string>
+    <string name="straight">Straight</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="button_scan">Scan</string>
+    <string name="title_paired_devices">Paired devices:</string>
+    <string name="title_other_devices">Unpaired devices:</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="alert_dialog_no_bt">Bluetooth must be enabled for this application to work properly</string>
+    <string name="ok">OK</string>
+    <string name="select_device">Choose a device to connect to</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="scanning">Scanning....</string>
+    <string name="none_found">No devices were discovered</string>
+
+</resources>
